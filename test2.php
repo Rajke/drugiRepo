@@ -1,5 +1,5 @@
 <?php
 
-echo "Nesto drugo. ";
+echo "A ne, moja promena je prava.";
 
 ?>
