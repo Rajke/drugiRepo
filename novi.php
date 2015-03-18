@@ -1,9 +1,7 @@
 <?php
 
 
-echo "Novi ";
-echo "Novi ";
-echo "Novi ";
+echo "Novi novi brenc";
 
 
 ?>
