@@ -1,7 +1,7 @@
 <?php
 
 
-echo "Danas je petak!</br>";
+echo "Danas je ponedeljak;";
 echo "Sutra je subota!";
 
 //ovo je komentar
