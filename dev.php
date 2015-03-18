@@ -1,7 +1,7 @@
 <?php
 
 <?php
-
+//ovo nista ne valja
 class User{
 
 	protected $ime;
