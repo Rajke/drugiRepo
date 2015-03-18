@@ -1,7 +1,8 @@
 <?php
 
 
-echo "Danas je petak!";
+echo "Danas je petak!</br>";
+echo "Sutra je subota!";
 
 
 ?>
