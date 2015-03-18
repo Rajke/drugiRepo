@@ -1,5 +1,5 @@
 <?php 
 
-echo "Novi feature branch!";
+echo "Promena fajla u novom featuru!";
 
 ?>
