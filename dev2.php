@@ -1,6 +1,6 @@
 <?php 
 
-//ovde nema nista
+//ovaj komentar je sranje
 
 
 ?>
